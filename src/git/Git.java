@@ -13,5 +13,6 @@ public class Git {
     public static void main(String[] args) {
       Calculadora c = new Calculadora(4,2);
       System.out.println(c.suma());
+      System.out.println(c.resta());
     }    
 }
